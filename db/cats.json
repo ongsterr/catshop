@@ -1,0 +1,26 @@
+[
+    {
+        "id": "rJB0SYokX",
+        "name": "Milo",
+        "breed": "bengal",
+        "sex": "male",
+        "dob": "2017-12-12",
+        "price": "150000"
+    },
+    {
+        "id": "SJPJLtjk7",
+        "name": "Thinker",
+        "breed": "persian",
+        "sex": "female",
+        "dob": "2010-12-12",
+        "price": "950000"
+    },
+    {
+        "id": "Sk9eIYs17",
+        "name": "Eater",
+        "breed": "bengal",
+        "sex": "male",
+        "dob": "2018-01-12",
+        "price": "300000"
+    }
+]
